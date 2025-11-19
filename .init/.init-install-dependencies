@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/harmony-stream-204251-204282/music_streaming_frontend"
+}
